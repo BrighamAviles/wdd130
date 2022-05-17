@@ -3,22 +3,65 @@
     margin: 0 auto;
 }
 
-nav a[
+nav a {
+    text-align: center;
+  }
 
-]
+#hero-msg {
+    text-align: center;
+  }
 
-#hero-msg h1{
+#hero-msg h4 {
+    text-align: center;
+  }
 
+.button-box {
+    text-align: center;
+  }
+
+main section {
+    text-align: center;
 }
 
-#hero-msg h4{
-
+#background {
+    height: 725;
 }
 
-.button-box[
-
-]
-
-main section{
-    
+body{
+    background-color: #d4ac0d80;
+    color: #ac0dac3f;
+  }
+  header{
+    background-color: #ac0dac3f;
+    color: aqua;
+  }
+  nav a:hover{
+    background-color: rgba(221, 85, 85, 0.26);
+    color: black;
+  }
+nav a{
+  text-align: center;
+  color: black;
+  text-decoration: underline;
 }
+  .book, .join{
+    background-color: #ababab52;
+    color: black;
+    text-decoration: solid;
+  }
+  .book:hover, .join:hover{
+    background-color: hsla(231, 59%, 60%, 0.349);
+    color: darkorange;
+  }
+  #background{
+    background-color: #14d40dad;
+    color: black;
+  }
+  .msg{
+    background-color: #8ed40d4d;
+    color: darkred;
+  }
+  footer{
+    background-color: #c30dd438;
+    color: darkorange;
+  }
