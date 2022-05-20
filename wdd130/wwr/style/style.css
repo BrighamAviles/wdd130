@@ -2,92 +2,115 @@
 
 
 #content {
-    max-width: 1600px;
-    margin: 0 auto;
-  }
+  max-width: 1600px;
+  margin: 0 auto;
+}
+
 nav a {
-    text-align: center;
-  }
+  text-align: center;
+}
+
 #hero-msg {
-    text-align: center;
-  }
+  text-align: center;
+}
+
 #hero-msg h4 {
-    text-align: center;
-  }
+  text-align: center;
+}
+
 .button-box {
-    text-align: center;
-  }
+  text-align: center;
+}
+
 main section {
-    text-align: center;
-  }
-  #background {
-    height: 725px;
-  }
-  body{
-    background-color: #00B4D8;
-    color: #ac0dac3f;
-  }
-  header{
-    background-color: #0077B6 ;
-    color: aqua;
-  }
-  nav a:hover{
-    background-color: rgba(221, 85, 85, 0.26);
-    color: black;
-  }
-nav a{
+  text-align: center;
+}
+
+#background {
+  height: 725px;
+}
+
+body {
+  background-color: #00B4D8;
+  color: #ac0dac3f;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #0077B6;
+  color: aqua;
+}
+
+nav a:hover {
+  background-color: rgba(221, 85, 85, 0.26);
+  color: black;
+}
+
+nav a {
   text-align: center;
   color: black;
   text-decoration: underline;
 }
-  .book, .join{
-    background-color: #ababab52;
-    color: black;
-    text-decoration: solid;
-    font-family: 'inter', sans-serif;
-    font-size: 18px;
-  }
-  .book:hover, .join:hover{
-    background-color: hsla(231, 59%, 60%, 0.349);
-    color: darkorange;
-  }
-  #background{
-    background-color: #14d40dad;
-    color: black;
-  }
-  .msg p {
-    background-color: #00B4D8;
-    color: black;
-    font-family: 'inter', sans-serif;
-    font-size: 2em;
-    background-color: #6341df;
-    line-height: 1.5em;
 
-  }
+.book,
+.join {
+  background-color: #ababab52;
+  color: black;
+  text-decoration: solid;
+  font-family: 'inter', sans-serif;
+  font-size: 18px;
+}
 
-  footer{
-    background-color: #c30dd438;
-    color: darkorange;
-  }
-  footer a{
-    text-align: justify;
-    color: darkorange;
-    text-decoration: double;
-  }
-.logo{
-    width: 80px;
+.book:hover,
+.join:hover {
+  background-color: hsla(231, 59%, 60%, 0.349);
+  color: darkorange;
 }
-.icon{
-    width: 80px;
+
+#background {
+  background-color: #14d40dad;
+  color: black;
 }
-#hero-img{
-    width: 1000px;
+
+.msg p {
+  background-color: #00B4D8;
+  color: black;
+  font-family: 'inter', sans-serif;
+  font-size: 2em;
+  background-color: #6341df;
+  line-height: 1.5em;
+
 }
-footer h3 a:hover{
-    width: 80px;
-    color: aqua;
-    text-size-adjust: 14px;
-    text-decoration: solid;
+
+footer {
+  background-color: #c30dd438;
+  color: darkorange;
+}
+
+footer a {
+  text-align: justify;
+  color: darkorange;
+  text-decoration: double;
+}
+
+.logo {
+  width: 80px;
+}
+
+.icon {
+  width: 80px;
+}
+
+#hero-img {
+  width: 1000px;
+}
+
+footer h3 a:hover {
+  width: 80px;
+  color: aqua;
+  text-size-adjust: 14px;
+  text-decoration: solid;
 }
 
 .home-title {
