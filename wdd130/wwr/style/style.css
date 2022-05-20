@@ -66,6 +66,7 @@ nav a {
   font-size: 18px;
   padding: 15px 30px;
   margin-top: 50px;
+  border-radius: 5px;
 }
 
 .book:hover,
@@ -143,4 +144,12 @@ footer h3 a:hover {
 
 .river-card, .camping-card, rapids-card {
   margin: 200px 0;
+}
+
+.card-img {
+  border: 10px black;
+}
+
+main section img {
+  box-sizing: border-box;
 }
