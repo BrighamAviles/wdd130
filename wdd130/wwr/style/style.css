@@ -37,6 +37,10 @@ body {
   padding: 0;
 }
 
+h2 {
+  margin: 0;
+}
+
 header {
   background-color: #0077B6;
   color: aqua;
