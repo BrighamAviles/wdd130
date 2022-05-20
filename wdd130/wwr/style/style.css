@@ -44,6 +44,8 @@ nav a{
     background-color: #ababab52;
     color: black;
     text-decoration: solid;
+    font-family: 'inter', sans-serif;
+    font-size: 18px;
   }
   .book:hover, .join:hover{
     background-color: hsla(231, 59%, 60%, 0.349);
@@ -53,7 +55,7 @@ nav a{
     background-color: #14d40dad;
     color: black;
   }
-  .msg{
+  .msg p{
     background-color: #8ed40d4d;
     color: darkred;
   }
@@ -84,5 +86,5 @@ footer h3 a:hover{
 
 .home-title {
   font-family: 'inter', sans-serif;
-  font-size: 10em;
+  font-size: 2em;
 }
