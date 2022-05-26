@@ -32,10 +32,16 @@
   height: 100px; 
   background-color: blue;
   grid-column: 1/2
-} 
+  }
+  
+  
+
+
 /* Activity 2 styles */ 
 .content2 {
-  /* This is the parent of the activity 2 boxes. */
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
 }
 .red2 {
   width: 100px; 
@@ -46,17 +52,29 @@
   width: 100px; 
   height: 100px; 
   background-color: green; 
+  margin-top: 50px;
+  margin-left: -625px;
+
 } 
 .yellow2 {
   width: 100px; 
   height: 100px; 
   background-color: gold; 
+  margin-left: 90px;
+  margin-top: -30px;
 } 
 .blue2 {
   width: 100px; 
   height: 100px; 
-  background-color: blue; 
+  background-color: blue;
+  margin-left: -525px;
+  margin-top: 20px;
 } 
+
+
+
+
+
 /* Activity 3 styles */ 
 .content3 {
   /* This is the parent of the activity 3 boxes. */
@@ -81,6 +99,11 @@
   height: 100px; 
   background-color: blue; 
 } 
+
+
+
+
+
 /* Activity 4 styles */ 
 .content4 {
   /* This is the parent of the activity 4 boxes. */
@@ -106,6 +129,11 @@
   height: 100px; 
   background-color: blue; 
 } 
+
+
+
+
+
 /* Activity 5 styles */ 
 .content5 {
   /* This is the parent of the activity 5 boxes. */
@@ -133,6 +161,10 @@
   height: 100px; 
   background-color: blue; 
 } 
+
+
+
+
 /* Activity 6 styles */ 
 .content6 {
   /* This is the parent of the activity 6 boxes. */
