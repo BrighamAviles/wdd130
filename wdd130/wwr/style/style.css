@@ -25,6 +25,10 @@ nav a {
 
 #hero-msg {
   text-align: center;
+  grid-column: 2/3;
+  grid-row: 1/2;
+  
+  
 }
 
 #hero-msg h4 {
