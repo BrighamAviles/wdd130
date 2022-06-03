@@ -44,6 +44,8 @@ h2 {
 header {
   background-color: #0077B6;
   color: aqua;
+  display: grid;
+  grid-template-columns: 150px auto;
 }
 
 nav a:hover {
