@@ -143,6 +143,8 @@ footer h3 a:hover {
 
 #logo_link{
   padding-top: 5px;
+  justify-self: center;
+  align-self: center;
 }
 
 .river-card, .camping-card, rapids-card {
