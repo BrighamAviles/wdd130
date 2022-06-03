@@ -176,3 +176,12 @@ footer h3 a:hover {
 main section img {
   box-sizing: border-box;
 }
+
+#home-grid{
+  display: grid;
+  grid-template-columns: 10fr;
+}
+
+.card-img, .mountains {
+  width: 100%;
+}
