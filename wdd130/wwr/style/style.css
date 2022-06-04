@@ -184,6 +184,7 @@ main section img {
 #home-grid{
   display: grid;
   grid-template-columns: 10fr;
+  grid-template-rows: 10fr;
 }
 
 .card-img, .mountains {
