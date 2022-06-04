@@ -191,7 +191,7 @@ main section img {
   box-sizing: border-box;
 }
 
-#home-grid{
+main{
   display: grid;
   grid-template-columns: 10fr;
   grid-template-rows: 10fr;
