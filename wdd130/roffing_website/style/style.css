@@ -128,8 +128,10 @@ nav a:hover {
 }
 
 .msg {
-  grid-column: 6/10;
-  grid-row: 6/7;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-column: 2/2;
+  grid-row: 1/2;
 }
 
 .home-grid, .rivers-card, .camping-card, .rapids-card {
