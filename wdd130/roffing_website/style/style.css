@@ -96,7 +96,7 @@ nav a:hover {
 }
 
 .rivers-card {
-  grid-column: 0/1;
+  grid-column: 1/4;
   grid-row: 1/2;
 }
 .camping-card {
